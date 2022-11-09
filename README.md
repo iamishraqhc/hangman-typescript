@@ -18,6 +18,12 @@
 
 
 ## Installation Instructions
+
+### Prerequisites
+1. Make sure you have node installed in your machine. If not, download and install it from its official website https://nodejs.org/en/.
+2. After installing node, make sure you have vite. If you don't, install it with the command ***npm install -g vite***
+
+### Install and Run
 1. Clone the repository
 2. Run "npm install"
 3. Run "npm run dev"
