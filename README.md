@@ -1,0 +1,1 @@
+# Hangman Game using Vite + React + TypeScript
